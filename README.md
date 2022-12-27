@@ -10,3 +10,8 @@
   + 정재윤 <https://github.com/lastdefiance20>
 
   + 한영욱 <https://github.com/10wook>
+* * *
+## 작동 예시
+<img width="40%" src="https://user-images.githubusercontent.com/57488530/209650256-48b22065-f3d7-4fce-a7cb-6e2466a655ff.jpg"/>
+
+<img width="40%" src="https://user-images.githubusercontent.com/57488530/209650262-6c92489a-76ae-4db6-971d-a012e7061143.jpg"/>
