@@ -1,0 +1,27 @@
+포지션, 등 번호, 이름, 영문표기, 생년월일, 나이, 국가대표 경기 출전 횟수, 골 수, 현재 소속 팀
+GK, 21,무함마드 알오와이스, (Mohammed Al-Owais), 1991년 10월 10일, (31세), 34, 0, 알 힐랄 SFC
+GK, 1,모하메드 알라미, (Mohammed Al Rubeai), 1997년 8월 14일, (25세), 7, 0, 알바틴 FC
+GK, 22,나와프 알라카디, (Nawaf bin Dhahi bin Faisal Al-Suwaiti Al-Aqidi), 2000년 5월 10일, 1, 0, 알 타이 FC
+DF, 13,야세르 알샤흐라니, (Yasser Al-Shahrani), 1992년 5월 25일, (30세), 68, 2, 알 힐랄 SFC
+DF, 6,모하메드 알브레이크, (Mohammed Al-Breik), 1992년 9월 15일, (30세), 34, 1, 알 힐랄 SFC
+DF, 5,알리 알불라이히, (Ali Al-Bulaihi), 1989년 11월 21일, (32세), 29, 0, 알 힐랄 SFC
+DF, 2,술탄 알간남, (Sultan Al-Ghanam), 1994년 5월 6일, (28세), 19, 0, 알 나스르 FC
+DF, 17,하산 탐박티, (Hassan Tambakti), 1999년 2월 9일, (23세), 12, 0, 알 샤바브 FC
+DF, 4,압둘레라 알암리, (Abdulelah Al-Amri), 1997년 1월 15일, (25세), 11, 1, 알 나스르 FC
+DF, 3,압둘라 마두, (Abdullah Madu), 1993년 7월 15일, (29세), 15, 0 ,알 나스르 FC
+DF, 12,사우드 압둘 하미드, (Saud Abdulhamid), 1999년 7월 18일, (23세), 23, 0, 알 힐랄 SFC
+MF, 7,살만 알파라지, (Salman Al-Faraj), 1989년 8월 1일, (33세), 67, 8, 알 힐랄 SFC
+MF, 14,압둘라흐 오타이프, (Abdullah Otayf), 1992년 8월 3일, (30세), 42, 1, 알 힐랄 SFC
+MF, 23,무함마드 칸노, (Mohamed Kanno), 1994년 9월 22일, (28세), 29, 1, 알 힐랄 SFC
+MF, 16,사미 알나제이, (Sami Al-Najei), 1997년 2월 7일, (25세), 11, 2, 알 나스르 FC
+MF, 15,알리 알하산, (Ali Al-Hassan), 1997년 3월 4일, (25세), 6, 1, 알 나스르 FC
+MF, 24,나세르 알다우사리, (Nasser Al-Dawsari), 1998년 12월 19일, (23세), 4, 0, 알 힐랄 SFC
+MF, 26,리야드 샤라힐리, (Riyadh Sharahili), 1993년 4월 28일, (28세), 5, 0, 알파테 SC
+MF, 18,나와프 알아비드, (Nawaf Shaker Al Abed), 1990년 1월 26일 (32세), 55, 8, 알샤바브
+MF, 8,압둘렐라 알말키, (Abdulellah Al-Malki), 1994년 10월 11일, (28세), 27, 0,알 힐랄 SFC
+FW, 19,하탄 바헤브리, (Hattan Bahebri), 1992년 7월 16일, (30세), 33, 4, 알 샤바브 FC
+FW, 9,페라스 알부라이칸, (Firas Al-Buraikan), 2000년 5월 14일, (22세), 20, 6, 알 파테 FC
+FW, 20,압둘라흐만 알아부드, (Abdulrahman Al-Aboud), 1995년 6월 1일, (27세), 2, 0, 알 이티하드 FC
+FW, 10,살렘 알다우사리, (Salem Al-Dawsari), 1991년 8월 19일, (31세), 64, 17, 알 힐랄 SFC
+FW, 11,살레 알셰흐리, (Saleh Khaled Al-Shehri), 1993년 11월 1일, (29세), 20, 10, 알 힐랄 SFC
+FW, 25,하이탐 아시리, (Haitham Asir), 2000년 3월 25일, (21세), 8, 1,알아흘리 사우디 FC

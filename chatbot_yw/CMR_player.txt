@@ -1,0 +1,27 @@
+포지션, 등 번호, 이름, 영문표기, 생년월일, 나이, 국가대표 경기 출전 횟수, 골 수, 현재 소속 팀
+GK, 1,브래디 은가판도우에튼부, (Simon Ngapandouetnbu), 2003년 8월 12일, (19세), 0, 0, 올랭피크 드 마르세유
+GK, 16,데비스 에파시, (Devis Epassy), 1993년 2월 2일, (29세), 5, 0, OFI 크레타 FC
+GK, 23,안드레 오나나, (André Onana), 1996년 4월 2일, (26세), 29, 0, 인터밀란
+DF, 2,제롬 은곰 음베켈리, (Jerome Ngom Mbekeli), 1998년 9월 30일, (24세), 0, 0, Colombe Sportive
+DF, 4,크리스토퍼 우, (Christopher Maurice Wooh), 2001년 9월 18일, 3, 0, 스타드 렌 FC 
+DF, 17,올리비에 음바이조, (Olivier Mbaizo), 1997년 8월 15일, (25세), 11, 0, 필라델피아 유니언
+DF, 19,콜랭 패, (Collins Fai), 1992년 11월 23일, (30세), 48, 0, 알 타이 FC
+DF, 21,장 샤를 카스텔레토, (Jean-Charles Castelletto), 1995년 1월 26일, (27세), 10, 0, FC 낭트
+DF, 3,니콜라 은쿨루, (Nicolas Alexis Julio N'Koulou N'Doubena), 1990년 3월 27일, (32세), 76, 2, 아리스 FC
+DF, 24,엔조 에보세, (Enzo Ebosse), 1999년 3월 11일, (23세),  1, 0, 우디세네 칼초
+DF, 25,누호 톨로, (Nouhou Tolo), 1997년 6월 23일, (25세), 14, 0, 터코마 디파이언스
+MF, 14,사무엘 그웻, (Samuel Gouet), 1997년 12월 14일, (24세), 20, 0, KV 메헬렌
+MF, 15,피에르 쿤데, (Pierre Kunde), 1995년 7월 26일, (27세), 29, 1, 올림피아코스 FC
+MF, 18,마르탱 옹글라, (Martin Hongla), 1998년 3월 16일, (24세), 17, 0, 엘라스 베로나 FC
+MF, 8,앙드레프랑크 잠보 앙귀사, (André-Frank Zambo Anguissa), 1995년 11월 16일, (27세), 41, 5, SSC 나폴리
+MF, 22,올리비에 은참, (Olivier Ntcham), 1996년 2월 9일, (26세), 0, 0, 스완지 시티 AFC
+MF, 5,가엘 온두아,(Gael ONDOUA), 1995년 11월 4일, (27세), 1, 0, 하노버 96
+MF, 7,조르주-케빈 은쿠두, (Georges-Kévin Nkoudou Mbida), 1995년 2월 13일, (27세), 1, 0, 베식타시 JK
+MF, 26,수아이부 마루, (Souaibou Marou), 2000년 12월 2일, (21세), 3, 1, 코통 스포르 FC 드 가루아
+FW, 10,뱅상 아부바카, (Vincent Aboubakar), 1992년 1월 22일, (31세), 86, 33, 알 나스르 FC
+FW, 12,칼 토코 에캄비, (Karl Toko Ekambi), 1992년 9월 14일, (30세), 49, 11, 올랭피크 리옹
+FW, 13,에릭 막심 추포모팅, (Eric Maxim Choupo-Moting), 1989년 3월 23일, (33세), 67, 18, FC 바이에른 뮌헨
+FW, 20,브라이언 음베모, (Bryan Tetsadong Marceau Mbeumo), 1999년 8월 7일, (23세), 3, 0, 브렌트퍼드 FC
+FW, 11,크리스티안 바소곡, (Christian Mougang Bassogog), 1995년 10월 18일, (27세), 41, 6, 상하이 선화
+FW, 6,니콜라스 은가말레우, (Nicolas Brice Moumi Ngamaleu), 1994년 7월 9일, (28세), 39, 3, FC 디나모 모스크바
+FW, 9,장피에르 은시메, (Jean-Pierre Nsame), 1993년 5월 1일, (29세), 2, 0, 베네치아 FC
