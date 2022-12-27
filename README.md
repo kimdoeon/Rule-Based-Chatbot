@@ -3,7 +3,7 @@
 
 + < 팀원 >
 
-  + 김도언 
+  + 김도언 <https://github.com/kimdoeon>
 
   + 박산야 <https://github.com/SanyaPark>
 
