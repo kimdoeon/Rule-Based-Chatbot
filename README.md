@@ -12,7 +12,7 @@
 
 ## 구성원
 
-|  이름  |                깃                 |
+|  이름  |              깃허브               |
 | :----: | :-------------------------------: |
 | 김도언 |    https://github.com/kimdoeon    |
 | 박산야 |   https://github.com/SanyaPark    |
