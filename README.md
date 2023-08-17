@@ -8,7 +8,7 @@
   - 조 구성 정보
   - 선수 정보
 
-> Presentation: [최종 보고서](./4조%20최종%20보고서.pdf)
+> Presentation: [최종 보고서](./figure/4조%20최종%20보고서.pdf)
 
 ## 구성원
 
@@ -21,7 +21,7 @@
 
 ## 파이프라인 오버뷰
 
-![img](./pipeline.png)
+![img](./figure/pipeline.png)
 
 ## 작동 예시
 
