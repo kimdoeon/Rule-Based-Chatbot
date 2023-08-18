@@ -29,10 +29,10 @@
 <table>
   <tr>
     <td>
-      <img width="100%" src="https://user-images.githubusercontent.com/57488530/209650256-48b22065-f3d7-4fce-a7cb-6e2466a655ff.jpg"/>
+      <img width="75%" src="./figure/2.jpg"/>
     </td>
     <td>
-      <img width="100%" src="https://user-images.githubusercontent.com/57488530/209650262-6c92489a-76ae-4db6-971d-a012e7061143.jpg"/>
+      <img width="100%" src="./figure/5.jpg"/>
     </td>
   </tr>
 </table>
