@@ -13,12 +13,9 @@
 
 ## 구성원
 
-|  이름  |              깃허브               |
-| :----: | :-------------------------------: |
-| 김도언 |    https://github.com/kimdoeon    |
-| 박산야 |   https://github.com/SanyaPark    |
-| 정재윤 | https://github.com/lastdefiance20 |
-| 한영욱 |     https://github.com/10wook     |
+|  김도언  |박산야   |정재윤|한영욱|
+| :----: | :----: | :----: | :----: |
+|[![kimdoeon](https://avatars.githubusercontent.com/u/54973036?v=4)](https://github.com/kimdoeon)|[![SanyaPark](https://avatars.githubusercontent.com/u/57488530?v=4)](https://github.com/SanyaPark)|[![lastdefiance20](https://avatars.githubusercontent.com/u/65525866?v=4)](https://github.com/lastdefiance2)|[![10wook](https://avatars.githubusercontent.com/u/70461240?v=4)](https://github.com/10wook)|
 
 ## 파이프라인 오버뷰
 
