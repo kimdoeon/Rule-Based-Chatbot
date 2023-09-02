@@ -15,7 +15,7 @@
 
 |  김도언  |박산야   |정재윤|한영욱|
 | :----: | :----: | :----: | :----: |
-|<a href="https://github.com/kimdoeon"><img src="https://avatars.githubusercontent.com/u/54973036?v=4" alt="kimdoeon" width="100px"></a>|<a href="https://github.com/SanyaPark"><img src="https://avatars.githubusercontent.com/u/57488530?v=4" alt="SanyaPark" width="100px"></a>|<a href="https://github.com/lastdefiance2"><img src="https://avatars.githubusercontent.com/u/65525866?v=4" alt="lastdefiance20" width="100px"></a>|<a href="https://github.com/10wook"><img src="https://avatars.githubusercontent.com/u/70461240?v=4" alt="10wook" width="100px"></a>|
+|<a href="https://github.com/kimdoeon"><img src="https://avatars.githubusercontent.com/u/54973036?v=4" alt="kimdoeon" width="100px"></a>|<a href="https://github.com/SanyaPark"><img src="https://avatars.githubusercontent.com/u/57488530?v=4" alt="SanyaPark" width="100px"></a>|<a href="https://github.com/lastdefiance20"><img src="https://avatars.githubusercontent.com/u/65525866?v=4" alt="lastdefiance20" width="100px"></a>|<a href="https://github.com/10wook"><img src="https://avatars.githubusercontent.com/u/70461240?v=4" alt="10wook" width="100px"></a>|
 
 ## 파이프라인 오버뷰
 
